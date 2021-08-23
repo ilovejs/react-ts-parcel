@@ -11,7 +11,7 @@ export const Hello: React.FC<HelloProps> = ({
   framework
 }: HelloProps) => (
   <h1>
-    Hellos from <Icon width='23px'/>
+    Hellos from <Icon style={{ width: '23px' }}/>
     {' '}
     {compiler}
     {' '}

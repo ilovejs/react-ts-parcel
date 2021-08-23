@@ -41,3 +41,6 @@ yarn add -D rimraf
 [webpack5](https://www.carlrippon.com/creating-react-app-with-typescript-eslint-with-webpack5/)
 
 [eslint](https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba)
+
+[@types](https://duncanleung.com/typescript-module-declearation-svg-img-assets/)
+
