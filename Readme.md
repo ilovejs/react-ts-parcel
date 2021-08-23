@@ -1,3 +1,5 @@
+Minimal React Typescript Template + Parcel
+
 ## steps to init
 
 mkdir react-ts-parcel
