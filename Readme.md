@@ -35,6 +35,7 @@ yarn add -D rimraf
 [1](https://pagepro.co/blog/building-app-with-react-typescript-and-parcel/)
 
 [sass,eslint](https://adrianhall.github.io/javascript/react/2020/03/29/parcel-typescript-react/)
+- https://github.com/adrianhall/parcel-typescript-template
 
 [babel,sass](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-parcel)
 
