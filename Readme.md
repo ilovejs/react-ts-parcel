@@ -2,7 +2,7 @@ Minimal React Typescript Template + Parcel
 
 ## How to use
 
-click 'use as template'
+click the green button 'Use this template'
 
 ## Steps to reproduce this template
 
