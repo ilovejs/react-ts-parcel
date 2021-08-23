@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { render } from 'react-dom'
 
-import { Hello } from './Hello'
+import { Hello } from './components/Hello'
 
 const App = () => (
   <div>

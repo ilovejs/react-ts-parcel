@@ -27,7 +27,9 @@ yarn add -D rimraf
 
 ## doc
 
-[official](https://v2.parceljs.org/languages/css/)
+[v1](https://parceljs.org/getting_started.html)
+
+[official v2](https://v2.parceljs.org/languages/css/)
 
 ## reference
 [1](https://pagepro.co/blog/building-app-with-react-typescript-and-parcel/)

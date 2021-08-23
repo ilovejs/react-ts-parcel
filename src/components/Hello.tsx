@@ -1,4 +1,5 @@
 import React from 'react'
+import Icon from '../icon/Icon.svg'
 
 export interface HelloProps {
   compiler: string;
@@ -10,7 +11,7 @@ export const Hello: React.FC<HelloProps> = ({
   framework
 }: HelloProps) => (
   <h1>
-    Hellos from
+    Hellos from <Icon width='23px'/>
     {' '}
     {compiler}
     {' '}
