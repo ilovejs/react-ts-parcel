@@ -1,7 +1,12 @@
 Minimal React Typescript Template + Parcel
 
-## steps to init
+## How to use
 
+click 'use as template'
+
+## Steps to reproduce this template
+
+```sh
 mkdir react-ts-parcel
 cd react-ts-parcel
 yarn init
@@ -26,24 +31,27 @@ yarn eslint --init
 yarn add -D @typescript-eslint/eslint-plugin eslint-plugin-react-hooks
 
 yarn add -D rimraf
+```
 
-## doc
+## Doc
 
-[v1](https://parceljs.org/getting_started.html)
+[parcel v1](https://parceljs.org/getting_started.html)
 
-[official v2](https://v2.parceljs.org/languages/css/)
+[parcel v2](https://v2.parceljs.org/languages/css/)
 
-## reference
-[1](https://pagepro.co/blog/building-app-with-react-typescript-and-parcel/)
+## Refs
 
-[sass,eslint](https://adrianhall.github.io/javascript/react/2020/03/29/parcel-typescript-react/)
-- https://github.com/adrianhall/parcel-typescript-template
+[building-app-with-react-typescript-and-parcel](https://pagepro.co/blog/building-app-with-react-typescript-and-parcel/)
 
-[babel,sass](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-parcel)
+sass,eslint
+[parcel-typescript-react](https://adrianhall.github.io/javascript/react/2020/03/29/parcel-typescript-react/)
+[repo](https://github.com/adrianhall/parcel-typescript-template)
+
+[digitalOcean,babel,sass](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-parcel)
 
 [webpack5](https://www.carlrippon.com/creating-react-app-with-typescript-eslint-with-webpack5/)
 
-[eslint](https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba)
+[setting-eslint-on-a-react-typescript](https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba)
 
-[@types](https://duncanleung.com/typescript-module-declearation-svg-img-assets/)
+[declearation-svg-img-assets](https://duncanleung.com/typescript-module-declearation-svg-img-assets/)
 
