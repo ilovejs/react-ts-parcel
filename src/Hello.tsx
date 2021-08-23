@@ -1,16 +1,22 @@
-import * as React from "react";
- 
+import React from 'react'
+
 export interface HelloProps {
   compiler: string;
-  framework: string;
+  framework: number;
 }
- 
-export class Hello extends React.Component<HelloProps, {}> {
-  render() {
-    return (
-      <h1>
-        Hellos from {this.props.compiler} and {this.props.framework}!
-      </h1>
-    );
-  }
-}
+
+export const Hello: React.FC<HelloProps> = ({
+  compiler,
+  framework
+}: HelloProps) => (
+  <h1>
+    Hellos from
+    {' '}
+    {compiler}
+    {' '}
+    and
+    {' '}
+    {framework}
+    !
+  </h1>
+)
